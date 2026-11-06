@@ -742,6 +742,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Base Free USDC Transfer](https://github.com/magnetai/mcp-free-usdc-transfer) - MCP (Model Context Protocol) server - free usdc transfer powered by Coinbase CDP
 - [Bitcoin MCP Server](https://github.com/AbdelStark/bitcoin-mcp) - Bitcoin & Lightning Network MCP Server.
 - [BSC-MCP Server](https://github.com/TermiX-official/bsc-mcp) - Executes Binance Smart Chain transactions, including BNB and BEP-20 token transfers, via the Model Context Protocol
+- [Chain.Love MCP](https://github.com/Chain-Love/chain.love-mcp) - Queries and compares Web3 infrastructure providers, RPC endpoints, indexers, block explorers, bridges, faucets, and SDKs across 50+ blockchain networks
 - [Claude Crypto Trader](https://github.com/SaintDoresh/Crypto-Trader-MCP-ClaudeDesktop.git) - Provides real-time cryptocurrency market data and historical charts via the CoinGecko API for Claude Desktop
 - [Claude YFinance Trader](https://github.com/SaintDoresh/YFinance-Trader-MCP-ClaudeDesktop.git) - Provides real-time stock data, company information, and trading capabilities within Claude Desktop
 - [CoinCap Data Server](https://github.com/QuantGeekDev/coincap-mcp) - A coincap mcp server to access crypto data from coincap API
